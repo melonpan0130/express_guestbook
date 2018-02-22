@@ -1,0 +1,13 @@
+{
+  "name": "express_guestbook",
+  "private": true,
+  "version": "0.1.0",
+  "description": "simple guest book",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Eunju Chong <eun01300714@gmail.com>",
+  "license": "ISC"
+}
